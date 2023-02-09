@@ -1,1 +1,1 @@
-pymodbus>=3.1,<4
+pymodbus[datastore, serial] >= 3.1, <4
